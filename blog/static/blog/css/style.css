@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(75, 74, 74);
+    color: antiquewhite;
+}
+
+/* form{
+    color: rgb(177, 168, 168); */
+/* } */
+
+.form-control{
+    background-color: rgb(177, 168, 168);
+}
+
+.jumbo-color{
+    background-color: rgb(83, 81, 81);
+}
+
+.form-label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-field {
+    margin-bottom: 15px;
+  }
+  
